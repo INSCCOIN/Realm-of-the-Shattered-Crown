@@ -1,0 +1,30 @@
+Limited Public Access License (LPAL)
+Version 1.0
+Effective Date: [9-12-2024]
+
+1. License Grant
+Under this Limited Public Access License ("License"), the Licensor grants the Licensee (the user) a limited, non-exclusive, non-transferable, non-sublicensable right to access and use the Software for personal or internal business purposes, subject to the terms and conditions of this License.
+
+2. Restrictions
+Licensee agrees to the following restrictions:
+
+No Modification: The Licensee may not modify, adapt, alter, or create derivative works based on the Software.
+No Redistribution: The Licensee may not distribute, sublicense, sell, lease, rent, or otherwise transfer the Software or any portion thereof to any third party.
+No Reverse Engineering: The Licensee shall not reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
+3. Intellectual Property
+The Software and all associated intellectual property rights are and shall remain the exclusive property of the Licensor. Licensee acknowledges that the rights granted under this License do not transfer any ownership rights to the Software.
+
+4. Disclaimer of Warranties
+The Software is provided "as is" without any warranties of any kind, either express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement. The Licensor makes no warranty that the Software will meet the Licensee's requirements or operate uninterrupted or error-free.
+
+5. Limitation of Liability
+To the maximum extent permitted by applicable law, the Licensor shall not be liable for any direct, indirect, incidental, consequential, or special damages arising out of or related to the Licensee's use of or inability to use the Software.
+
+6. Termination
+This License shall automatically terminate if the Licensee violates any terms or conditions of this License. Upon termination, the Licensee must immediately cease all use of the Software and delete all copies in their possession.
+
+7. Governing Law
+This License is governed by and construed in accordance with the laws of the United States, without regard to its conflict of laws principles.
+
+8. Entire Agreement
+This License constitutes the entire agreement between the parties with respect to the use of the Software and supersedes any prior agreements or understandings, whether written or oral.
